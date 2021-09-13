@@ -2,7 +2,7 @@
 
 - 💻 Atualmente estou me preparando para entrar no mercado
 - 💚 Estudando para ser dev android
-- 🍰 Não recurso bolo haha'
+- 🍰 Não recuso bolo haha'
 
 
 <div> 
